@@ -7,7 +7,7 @@
           #bg {
             fill: #efefef;
           }
-          [cc] {
+          .country {
             fill: white;
             stroke: #555;
             stroke-width: 0.5px;
